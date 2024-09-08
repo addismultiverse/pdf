@@ -1,2 +1,0 @@
-streamlit==1.18.1
-PyPDF2==2.1.0
